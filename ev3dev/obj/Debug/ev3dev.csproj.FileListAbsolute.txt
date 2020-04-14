@@ -1,0 +1,6 @@
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\bin\Debug\ev3dev.pdb
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\obj\Debug\ev3dev.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\obj\Debug\ev3dev.pdb
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\obj\Debug\ev3dev.csprojAssemblyReference.cache
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\bin\Debug\ev3dev.dll
+C:\Users\Szymon\source\repos\ev3dev-lang-csharp\ev3dev\obj\Debug\ev3dev.dll
